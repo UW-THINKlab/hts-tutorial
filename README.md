@@ -5,5 +5,4 @@ Download the persons, household, and trips datasets from the PSRC website. Also 
 
 Private O/D data from PSRC is located here: https://github.com/UW-THINKlab/private-data.git
 
-We will use binder to run our notebooks.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-THINKlab/hts-tutorial.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UW-THINKlab/hts-tutorial/main?labpath=psrc_hts_tutorial.ipynb)
