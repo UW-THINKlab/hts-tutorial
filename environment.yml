@@ -12,4 +12,15 @@ dependencies:
   - anaconda==2022.05=py39_0
   - anaconda-navigator==2.3.2
   - navigator-updater
-prefix: /Users/kaitlynng/opt/anaconda3
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - datetime
+  - statsmodels
+  - geopandas
+  - shapely
+  - requests
+  - pyproj
+  - geopy
+  - math
