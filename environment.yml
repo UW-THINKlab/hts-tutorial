@@ -1,0 +1,16 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - datetime
+  - statsmodels
+  - geopandas
+  - requests
+  - pyproj
+  - geopy
+  - math
